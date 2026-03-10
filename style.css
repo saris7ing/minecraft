@@ -6,7 +6,11 @@
 
 body {
     font-family: 'Segoe UI', sans-serif;
+<<<<<<< HEAD
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBuf7EpuShk02mxaIk-Ykd7_VrhPdttFPfGw&s");
+=======
+    background-image: url("https://images.unsplash.com/photo-1603575448366-153c1b87dfef");
+>>>>>>> ac1a6abf5d291947f4519b3e3aa5e58302ff4951
     background-size: cover;
     background-attachment: fixed;
     color: white;
@@ -15,7 +19,11 @@ body {
 header {
     background: rgba(0, 0, 0, 0.75);
     text-align: center;
+<<<<<<< HEAD
     
+=======
+    padding: 40px 20px;
+>>>>>>> ac1a6abf5d291947f4519b3e3aa5e58302ff4951
 }
 
 header h1 {
@@ -27,20 +35,33 @@ header p {
     margin-top: 10px;
 }
 
+<<<<<<< HEAD
 .portada {
+=======
+.hero {
+>>>>>>> ac1a6abf5d291947f4519b3e3aa5e58302ff4951
     text-align: center;
     margin: 30px 0;
 }
 
+<<<<<<< HEAD
 .portada img {
+=======
+.hero img {
+>>>>>>> ac1a6abf5d291947f4519b3e3aa5e58302ff4951
     width: 350px;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0,0,0,0.8);
     transition: 0.3s;
 }
 
+<<<<<<< HEAD
 .portada img:hover {
     transform: scale(1.20);
+=======
+.hero img:hover {
+    transform: scale(1.05);
+>>>>>>> ac1a6abf5d291947f4519b3e3aa5e58302ff4951
 }
 
 .contenedor {
@@ -63,7 +84,11 @@ header p {
 
 .modos {
     display: flex;
+<<<<<<< HEAD
     gap: 25px;
+=======
+    gap: 15px;
+>>>>>>> ac1a6abf5d291947f4519b3e3aa5e58302ff4951
     flex-wrap: wrap;
 }
 
@@ -82,7 +107,11 @@ header p {
 
 .galeria {
     display: flex;
+<<<<<<< HEAD
     gap: 65px;
+=======
+    gap: 15px;
+>>>>>>> ac1a6abf5d291947f4519b3e3aa5e58302ff4951
     flex-wrap: wrap;
 }
 
