@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBuf7EpuShk02mxaIk-Ykd7_VrhPdttFPfGw&s");
+    background-image: url("https://wallpapercave.com/wp/wp7560600.jpg");
     background-size: cover;
     background-attachment: fixed;
     color: white;
@@ -15,7 +15,7 @@ body {
 header {
     background: rgba(0, 0, 0, 0.75);
     text-align: center;
-    
+    padding: 40px 20px;
 }
 
 header h1 {
@@ -39,8 +39,8 @@ header p {
     transition: 0.3s;
 }
 
-.portada img:hover {
-    transform: scale(1.20);
+.portada     img:hover {
+    transform: scale(1.05);
 }
 
 .contenedor {
@@ -63,7 +63,7 @@ header p {
 
 .modos {
     display: flex;
-    gap: 25px;
+    gap: 15px;
     flex-wrap: wrap;
 }
 
@@ -82,7 +82,7 @@ header p {
 
 .galeria {
     display: flex;
-    gap: 65px;
+    gap: 15px;
     flex-wrap: wrap;
 }
 
